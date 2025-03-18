@@ -1,5 +1,5 @@
 import unittest
-from UnitTesting.white_box import (
+from white_box import (
     is_even,
     divide,
     get_grade,
